@@ -54,4 +54,31 @@ html {
 .portfolio .nav-pills .nav-link.active {
   background-color: #35a22c !important;
   color: #ffffff !important;
+  border-color: #35a22c !important;
+
 }
+
+
+/*  */
+@media screen and (max-width:768px) {
+
+
+
+}
+/* tablets col-md */
+@media screen and (max-width:768px) {
+
+
+}
+
+/* Phone ngang */
+@media screen and (max-width:768px) {
+  
+}
+/* Phone dọc */
+@media screen and (max-width: 576px) {
+
+}
+
+
+
